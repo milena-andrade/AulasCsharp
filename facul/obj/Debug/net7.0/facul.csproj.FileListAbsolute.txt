@@ -1,0 +1,15 @@
+C:\Users\milen\Documents\facul\bin\Debug\net7.0\facul.exe
+C:\Users\milen\Documents\facul\bin\Debug\net7.0\facul.deps.json
+C:\Users\milen\Documents\facul\bin\Debug\net7.0\facul.runtimeconfig.json
+C:\Users\milen\Documents\facul\bin\Debug\net7.0\facul.dll
+C:\Users\milen\Documents\facul\bin\Debug\net7.0\facul.pdb
+C:\Users\milen\Documents\facul\obj\Debug\net7.0\facul.csproj.AssemblyReference.cache
+C:\Users\milen\Documents\facul\obj\Debug\net7.0\facul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milen\Documents\facul\obj\Debug\net7.0\facul.AssemblyInfoInputs.cache
+C:\Users\milen\Documents\facul\obj\Debug\net7.0\facul.AssemblyInfo.cs
+C:\Users\milen\Documents\facul\obj\Debug\net7.0\facul.csproj.CoreCompileInputs.cache
+C:\Users\milen\Documents\facul\obj\Debug\net7.0\facul.dll
+C:\Users\milen\Documents\facul\obj\Debug\net7.0\refint\facul.dll
+C:\Users\milen\Documents\facul\obj\Debug\net7.0\facul.pdb
+C:\Users\milen\Documents\facul\obj\Debug\net7.0\facul.genruntimeconfig.cache
+C:\Users\milen\Documents\facul\obj\Debug\net7.0\ref\facul.dll
