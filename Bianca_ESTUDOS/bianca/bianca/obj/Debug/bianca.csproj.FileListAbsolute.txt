@@ -1,0 +1,7 @@
+C:\Users\milen\Documents\Bianca_ESTUDOS\bianca\bianca\bin\Debug\bianca.exe.config
+C:\Users\milen\Documents\Bianca_ESTUDOS\bianca\bianca\bin\Debug\bianca.exe
+C:\Users\milen\Documents\Bianca_ESTUDOS\bianca\bianca\bin\Debug\bianca.pdb
+C:\Users\milen\Documents\Bianca_ESTUDOS\bianca\bianca\obj\Debug\bianca.csproj.AssemblyReference.cache
+C:\Users\milen\Documents\Bianca_ESTUDOS\bianca\bianca\obj\Debug\bianca.csproj.CoreCompileInputs.cache
+C:\Users\milen\Documents\Bianca_ESTUDOS\bianca\bianca\obj\Debug\bianca.exe
+C:\Users\milen\Documents\Bianca_ESTUDOS\bianca\bianca\obj\Debug\bianca.pdb
