@@ -1,0 +1,7 @@
+C:\Users\milen\source\repos\AulaNelson\AulaNelson\bin\Debug\AulaNelson.exe.config
+C:\Users\milen\source\repos\AulaNelson\AulaNelson\bin\Debug\AulaNelson.exe
+C:\Users\milen\source\repos\AulaNelson\AulaNelson\bin\Debug\AulaNelson.pdb
+C:\Users\milen\source\repos\AulaNelson\AulaNelson\obj\Debug\AulaNelson.csproj.AssemblyReference.cache
+C:\Users\milen\source\repos\AulaNelson\AulaNelson\obj\Debug\AulaNelson.csproj.CoreCompileInputs.cache
+C:\Users\milen\source\repos\AulaNelson\AulaNelson\obj\Debug\AulaNelson.exe
+C:\Users\milen\source\repos\AulaNelson\AulaNelson\obj\Debug\AulaNelson.pdb
