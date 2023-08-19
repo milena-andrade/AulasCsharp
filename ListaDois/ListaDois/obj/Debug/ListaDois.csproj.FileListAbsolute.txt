@@ -1,0 +1,7 @@
+C:\Users\milen\source\repos\ListaDois\ListaDois\bin\Debug\ListaDois.exe.config
+C:\Users\milen\source\repos\ListaDois\ListaDois\bin\Debug\ListaDois.exe
+C:\Users\milen\source\repos\ListaDois\ListaDois\bin\Debug\ListaDois.pdb
+C:\Users\milen\source\repos\ListaDois\ListaDois\obj\Debug\ListaDois.csproj.AssemblyReference.cache
+C:\Users\milen\source\repos\ListaDois\ListaDois\obj\Debug\ListaDois.csproj.CoreCompileInputs.cache
+C:\Users\milen\source\repos\ListaDois\ListaDois\obj\Debug\ListaDois.exe
+C:\Users\milen\source\repos\ListaDois\ListaDois\obj\Debug\ListaDois.pdb
