@@ -1,0 +1,10 @@
+C:\Users\milen\source\repos\AulaNelsonSabado2\AulaNelsonSabado2\bin\Debug\AulaNelsonSabado2.exe.config
+C:\Users\milen\source\repos\AulaNelsonSabado2\AulaNelsonSabado2\bin\Debug\AulaNelsonSabado2.exe
+C:\Users\milen\source\repos\AulaNelsonSabado2\AulaNelsonSabado2\bin\Debug\AulaNelsonSabado2.pdb
+C:\Users\milen\source\repos\AulaNelsonSabado2\AulaNelsonSabado2\obj\Debug\AulaNelsonSabado2.csproj.AssemblyReference.cache
+C:\Users\milen\source\repos\AulaNelsonSabado2\AulaNelsonSabado2\obj\Debug\AulaNelsonSabado2.Form1.resources
+C:\Users\milen\source\repos\AulaNelsonSabado2\AulaNelsonSabado2\obj\Debug\AulaNelsonSabado2.Properties.Resources.resources
+C:\Users\milen\source\repos\AulaNelsonSabado2\AulaNelsonSabado2\obj\Debug\AulaNelsonSabado2.csproj.GenerateResource.cache
+C:\Users\milen\source\repos\AulaNelsonSabado2\AulaNelsonSabado2\obj\Debug\AulaNelsonSabado2.csproj.CoreCompileInputs.cache
+C:\Users\milen\source\repos\AulaNelsonSabado2\AulaNelsonSabado2\obj\Debug\AulaNelsonSabado2.exe
+C:\Users\milen\source\repos\AulaNelsonSabado2\AulaNelsonSabado2\obj\Debug\AulaNelsonSabado2.pdb
